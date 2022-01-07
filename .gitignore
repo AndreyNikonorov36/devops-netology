@@ -1,6 +1,0 @@
-# Ignore CLI configuration files
-.terraformrc
-terraform.rc
-игнорировать все файлы которые указаны выше
-
-*.a  - игнорировать все файлы с расширением .a
